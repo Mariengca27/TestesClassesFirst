@@ -1,0 +1,31 @@
+###########
+
+
+Apenas algumas anotações importantes sobre os testes :
+
+    Ideal que cada classe do projeto tenha um classe própria para testes. 
+
+Comando para rodas os testes: 
+
+
+Click na página botão direito + Run Tests        -          Ctrl + R , T
+
+
+Na parte de gerenciador de testes -  vão aparecer as informações interessantes e importantes para  verificar a integridade do teste 
+
+Botão direito dentro do método e pedir para rodar o testes. 
+
+Testes AAA(Feito OK)
+Testes - Exception Handling()
+Analize Code Coverage -  Mostra a porcentagem do código que está composta por testes. NÃO existe na op community 
+
+
+Arquivo de configurações: Clicar no projeto e criar um arquivo .config, depois de criado, após isso
+já se pode utilizar a referência da configuração criada. 
+
+
+11/08/2021 
+    Arquivos TXT - Testes referentes :  app.config + fileNameTestsGoodFile() + setGoodFileName()
+       
+
+
